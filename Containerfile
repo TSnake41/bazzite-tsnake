@@ -165,6 +165,7 @@ RUN --mount=type=cache,dst=/var/cache \
         mesa-libGL \
         mesa-libgbm \
         mesa-vulkan-drivers \
+        bcache-tools \
         fwupd \
         fwupd-plugin-flashrom \
         fwupd-plugin-modem-manager \
